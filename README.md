@@ -1,2 +1,3 @@
 # FlappyBird_Js
-Flappy Bird Game made in Js
+Flappy Bird Game made in Js 
+~**Finished**~
