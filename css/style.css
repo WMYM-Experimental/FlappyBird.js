@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background: #333333;
+  background: rgba(0, 182, 114, 0.58);
 }
 #canvas {
   position: absolute;
@@ -13,7 +13,7 @@ body {
   margin-right: -50%;
   transform: translate(-50%, -50%);
   height: 600px;
-  width: 350px;
+  width: 300px;
   background-color: #eee;
   border-radius: 1%;
 }
